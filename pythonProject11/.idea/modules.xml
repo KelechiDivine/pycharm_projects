@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/python_Lambda/mathematics_app/.idea/7%_Investment_Rate_Returned_app.iml" filepath="$PROJECT_DIR$/python_Lambda/mathematics_app/.idea/7%_Investment_Rate_Returned_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python_Lambda/django_Project1/.idea/djangoProject1.iml" filepath="$PROJECT_DIR$/python_Lambda/django_Project1/.idea/djangoProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject11.iml" filepath="$PROJECT_DIR$/.idea/pythonProject11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../examples_for_all_codes_in_python/.idea/pythonProject12.iml" filepath="$PROJECT_DIR$/../examples_for_all_codes_in_python/.idea/pythonProject12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../examples_for_all_codes_in_python/passed_Examples_In_Chapter_Three/.idea/pythonProject13.iml" filepath="$PROJECT_DIR$/../examples_for_all_codes_in_python/passed_Examples_In_Chapter_Three/.idea/pythonProject13.iml" />
+    </modules>
+  </component>
+</project>
